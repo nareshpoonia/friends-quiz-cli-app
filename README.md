@@ -1,4 +1,4 @@
-# Neog Camp - Quiz About Myself (Assignment for Point Three)
+# Neog Camp - Quiz About F.R.I.E.N.D.S (Assignment for Point Three)
 
 This is a CLI app for a quiz about myself, which is also assignement for point three of NeogCamp Bootcamp
 
@@ -14,8 +14,6 @@ This is a CLI app for a quiz about myself, which is also assignement for point t
 In this app users can play a quiz about F.R.I.E.N.D.S
 
 ### Links
-
-Both solution link and the Live Site URL to be updated soon
 
 - Solution URL: [Solution URL](https://github.com/nareshpoonia/friends-quiz-cli-app)
 - CLI App URL: [CLI App URL](https://replit.com/@nareshpoonia/FriendsQuiz?embed=1&output=1)
