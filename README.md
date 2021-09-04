@@ -1,6 +1,6 @@
 # Neog Camp - Quiz About F.R.I.E.N.D.S (Assignment for Point Three)
 
-This is a CLI app for a quiz about myself, which is also assignement for point three of NeogCamp Bootcamp
+This is a CLI app for a quiz about F.R.I.E.N.D.S, which is also assignement for point three of NeogCamp Bootcamp
 
 ## Table of contents
 
