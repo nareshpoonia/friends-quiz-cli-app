@@ -17,7 +17,7 @@ In this app users can play a quiz about F.R.I.E.N.D.S
 
 Both solution link and the Live Site URL to be updated soon
 
-- Solution URL: [Solution URL](https://github.com/nareshpoonia/)
+- Solution URL: [Solution URL](https://github.com/nareshpoonia/friends-quiz-cli-app)
 - CLI App URL: [CLI App URL](https://replit.com/@nareshpoonia/FriendsQuiz?embed=1&output=1)
 
 ### Built with
